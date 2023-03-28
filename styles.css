@@ -489,7 +489,7 @@ h5
 
 }
 
-@media screen  and (max-width : 575px){
+@media screen  and (max-width : 500px){
   .section{
     width: 280px;
 
@@ -516,14 +516,15 @@ h5
     height: 200px;
     left: 50%;
     margin-left: -100px;
-    
+    top:250px;
   }
   .btn{
-   width: 120px;
+    font-weight: 100;
+    font-size:10px;
   }
-  
-}
 
+
+}
 
 
 
