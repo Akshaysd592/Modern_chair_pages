@@ -528,7 +528,13 @@ h5
     padding-right:1px;
   }
 
-
+   .section{
+     margin-top: -70%;
+   }
+ 
+   .body{
+    line-height: 0.3;
+   }
 }
 
 
